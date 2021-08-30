@@ -27,4 +27,4 @@
 
 #### UML
 
-![Auth UML]()
+![Auth UML](./assets/caps-uml.png)

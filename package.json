@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Rachnicrice/caps#readme",
   "dependencies": {
-    "events": "^3.3.0"
+    "dotenv": "^10.0.0",
+    "events": "^3.3.0",
+    "faker": "^5.5.3"
   }
 }
