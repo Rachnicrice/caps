@@ -1,0 +1,26 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "# Class-11 - Lab",
+  "main": "caps.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachnicrice/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachnicrice/caps/issues"
+  },
+  "homepage": "https://github.com/Rachnicrice/caps#readme",
+  "dependencies": {
+    "events": "^3.3.0"
+  }
+}
