@@ -12,7 +12,7 @@ function pickUpOrder (payload) {
   setInterval(() => {
     console.log(`DRIVER: picked up ${payload.orderID}`);
     capsConnect.emit('in-transit', payload);
-  }, 1000);
+  }, 1500);
 
   setInterval(() => {
     console.log('delivered!');
